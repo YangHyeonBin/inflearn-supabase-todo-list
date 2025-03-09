@@ -1,5 +1,7 @@
 # CRUD가 가능한 Todo List 앱
 
+![앱 화면 캡처](https://velog.velcdn.com/images/ekil_like/post/6dfe0a2a-d487-49ae-b12c-0005099a3458/image.png)
+
 ## 사용 기술
 
 -   Next.js
@@ -10,7 +12,7 @@
 ## 실행
 
 ```bash
-    npm run dev
+npm run dev
 ```
 
 ## 기능
