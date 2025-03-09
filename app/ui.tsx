@@ -4,7 +4,9 @@
 
 export default function UI() {
     return (
-        <div className="w-2/3 mx-auto flex flex-col items-center py-10">
+        <div
+            className="w-2/3 mx-auto flex flex-col items-center"
+            style={{ padding: "2.5rem 0" }}>
             <h1 className="text-xl">Todo List</h1>
         </div>
     );
