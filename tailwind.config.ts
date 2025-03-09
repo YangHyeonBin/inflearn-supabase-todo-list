@@ -6,7 +6,6 @@ type Config = {
 };
 
 // material ui와 tailwindcss 함께 쓸 수 있는 material tailwind 라이브러리
-import withMT from "@material-tailwind/react/utils/withMT";
 
 const config: Config = {
     content: [
@@ -20,4 +19,4 @@ const config: Config = {
     // 따로 설치한 tailwind css typography 플러그인
 };
 
-export default withMT(config);
+export default config;
